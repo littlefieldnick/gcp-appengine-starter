@@ -1,4 +1,4 @@
-package edu.usm.cos420.app_engine_starter;
+package edu.usm.cos420.app;
 
 import static com.google.common.truth.Truth.assertThat;
 import static org.mockito.Mockito.when;
